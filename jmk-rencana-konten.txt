@@ -1,3 +1,4 @@
 RENCANA KONTEN JMK
 - Membuat jasa belajar online
 - Menambah rencana konten kedepannya
+- Struktur data 
